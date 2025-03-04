@@ -9,12 +9,14 @@ body {
     background-color: #fafdff;
     text-align: center;
 }
+
 .flex-container {
   display: flex;
   width: 100%;
   justify-content: center;
   align-items: center;
 }
+
 /* Navigation Bar */
 .navbar {
     background-color:   #29373d ;
@@ -96,7 +98,6 @@ ul {
   gap: 10px;
   list-style: none;
 }
-
 /* Fade-in Animation 
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(-10px); }
