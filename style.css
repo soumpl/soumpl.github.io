@@ -98,6 +98,10 @@ ul {
   gap: 10px;
   list-style: none;
 }
+
+div{
+    line-height:23px;
+}
 /* Fade-in Animation 
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(-10px); }
